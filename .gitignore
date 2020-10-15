@@ -3,3 +3,8 @@ data/
 
 *.zip
 *.pt
+*.png
+*.jpeg
+
+tb/
+__pycache__/
