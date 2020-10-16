@@ -13,3 +13,6 @@ The notebook shows how to translate English to French sentences using the aforem
 - Pro: open an empty notebook
 - Novice: Open 'attention_decoder.ipynb'
 - Answers: Open 'attention_decoder_full.ipynb'
+
+## Nice links
+- https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
